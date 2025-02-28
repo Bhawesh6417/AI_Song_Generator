@@ -51,7 +51,7 @@ The script will prompt you to enter the type of song you want (e.g., pop, rap, s
 
 ## Example Output
 ```
-Enter the type of song you want (e.g., pop, rap, sad, happy): romantic
+Enter the type of song you want (e.g., pop, rap, sad, happy): sad
 
 Generated Lyrics:
 
